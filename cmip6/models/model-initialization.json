@@ -1,0 +1,53 @@
+{
+    "awi-cm-1-0-hr": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "awi-cm-1-0-lr": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }, 
+    "awi-cm-1-0-mr": {
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }, 
+        "toplevel": {
+            "initializedFrom": ""
+        }
+    }
+}
