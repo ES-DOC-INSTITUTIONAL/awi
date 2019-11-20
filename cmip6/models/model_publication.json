@@ -67,6 +67,23 @@
             "publish": "off"
         }
     }, 
+    "awi-esm-2-1-lr": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
     "mpi-esm1-2-lr": {
         "toplevel": {
             "publish": "off"
