@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "awi", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "awi-esm-2-1-lr", 
+    "topic": "seaice", 
+    "content": {}
+}
